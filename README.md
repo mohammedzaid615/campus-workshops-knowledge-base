@@ -1,6 +1,6 @@
 # campus-workshops-knowledge-base
 
-Knowledge Base for Campus Workshops for BNMIT placement series
+Knowledge Base for Campus Workshops for learning something new!!
 
 # What we'll be doing today?
 
